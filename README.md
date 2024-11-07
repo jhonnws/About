@@ -1,5 +1,5 @@
 ### ✨ Who am I?
-My name is Reza Mehdikhanlou and I’m admin of AsmrProg youtube web developing channel. On this page you will find all of the code snippets that I share on my youtube channel.
+My name is Jhon Wesly and I’m a Web Developer...
 
 #### 🔗 My Youtube channel
 [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@AsmrProg)
